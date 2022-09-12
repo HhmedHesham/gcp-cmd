@@ -33,3 +33,7 @@ microservices: is an architectural style that structures an application as a col
 
 service: is an abstraction which defines a logical set of Pods and a policy by which to access them.
 
+Heterogeneous deployments are called "hybrid", "multi-cloud", or "public-private", depending upon the specifics of the deployment.
+
+one-off||ad-hoc  deployment is a deployment that is not intended to be permanent.
+
