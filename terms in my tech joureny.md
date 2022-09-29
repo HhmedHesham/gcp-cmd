@@ -9,7 +9,7 @@ When you are ready to switch to the new environment, you simply redirect traffic
 This is a best practice for any software release.
 
 Helm: is a package manager for Kubernetes. Helm helps you manage Kubernetes applications — 
-Helm Charts help you define, install, and upgrade even the most complex Kubernetes application.
+Helm Charts: help you define, install, and upgrade even the most complex Kubernetes application.
 
 Kubernetes: is an open-source system for automating deployment, scaling, and management of containerized applications.
 
@@ -37,3 +37,15 @@ Heterogeneous deployments are called "hybrid", "multi-cloud", or "public-private
 
 one-off||ad-hoc  deployment is a deployment that is not intended to be permanent.
 
+A one-off code is a program made for a single use, unlike most other programs that are made for multiple uses
+
+ad hoc: we usually mean that you do not need to apply a sophisticated algorithm to solve the problem.
+
+Heterogeneous deployments: are deployments that use multiple cloud providers, typically involve connnecting two or more distinct cloud environments to achieve specific goals.
+Heterogeneous deployments are called "hybrid", "multi-cloud", or "public-private", depending upon the specifics of the deployment.
+
+A one-off||ad-hoc deployment is a deployment that is not intended to be permanent.
+
+Kubernetes Engine typically consists of multiple machines, called nodes, that run containerized applications.
+
+a cluster consists of one or more nodes, which are virtual machines (VMs) or physical machines that run containerized applications.
