@@ -22,4 +22,4 @@ which is deployed across all of the associated containers within it. A namespace
 
 
 Service: Since pods can be ephemeral—they can suddenly disappear and later be re-deployed dynamically—a service is a “front end”, which is deployed in front of a set of associated pods and functions like a load-balancer with a VIP that doesn't disappear if a pod disappears. A service is a non-ephemeral logical construct, with its own IP address. 
-With only a few exceptions within Kubernetes and OpenShift, external connections point to a service’s IP address and are then forwarded to “backend” pods.  
+t
